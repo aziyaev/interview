@@ -1,6 +1,0 @@
-#!/bin/bash
-NOW=$(date)
-UserInfo=$(w )
-SysUptime=$(uptime)
-SysInfo=$(uname -a)
-printf "Current Time: %s\n $NOW \n User Information:%s\n $UserInfo \n Uptime:%s\n $SysUptime \n System Information:%s\n $SysInfo"
